@@ -1,3 +1,8 @@
+Integrantes:
+Mateus Henrique
+Luis Felipe Macieira
+Nicollas Pereira
+
 Front-End
 npm install react react-dom react-router-dom axios
 
